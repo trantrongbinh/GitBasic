@@ -644,14 +644,7 @@ Bằng cách tạo issue, bạn có thể đăng các câu hỏi, thắc mắc c
 <a name="Tongket"></a>
 ## Tổng kết 
 
-Bài viết trên tôi tổng hợp lại những kiến thức thu được khi sử dụng git và github cho công việc của tôi (sys admin), hi vọng nó giúp các bạn một phần nào đó.
+Bài viết trên tôi tổng hợp lại những kiến thức thu được khi sử dụng git và github cho công việc của tôi, hi vọng nó giúp các bạn một phần nào đó.
 
-Chắc chắn bài viết còn có nhiều thiếu sót, mong các bạn thông cảm và gửi feedback cho tôi để hoàn thiện thêm.
 
-Liên lạc của tôi:
 
-- Email: nguyencongduc3112@gmail.com
-
-- Skype: khong_giong_ai
-
-Xin chân thành cảm ơn!
